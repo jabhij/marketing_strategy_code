@@ -9,7 +9,7 @@ data = {
 }
 df_funnel = pd.DataFrame(data)
 
-# Time Spent Heatmap Data (Sample)
+# Time Spent Heatmap Data  
 heatmap_data = pd.DataFrame({
     'Hour': ['8:00 AM', '12:00 PM', '4:00 PM', '8:00 PM'],
     'Clicks': [50, 120, 85, 200]
